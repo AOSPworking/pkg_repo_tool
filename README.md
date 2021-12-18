@@ -13,7 +13,9 @@
 >           ./frameworks
 ```
 
-接下来就会在 `bprepo2json/main` 文件夹下输出一个名为 `out.json` 的文件，里面写着具体的关系。
+**注：-l 后是 `crawler` 获得的 `repo.list`，表示 `frameworks` 的 `repo` 们；-o 后是这个工具输出的文件**。
+
+接下来就会在 `bprepo2json/main` 文件夹下输出一个名为 `repo_pkg_module.json` 的文件，里面写着具体的关系。
 
 ## 2. Misc
 
