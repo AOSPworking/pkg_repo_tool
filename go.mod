@@ -1,4 +1,4 @@
-module github.com/AOSP_FW/pkg_repo_tool
+module github.com/AOSPworking/pkg_repo_tool
 
 go 1.15
 
