@@ -13,3 +13,8 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# for special input: frameworks
+# for special output: repo_pkg_module.json
+frameworks/
+repo_pkg_module.json
